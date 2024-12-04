@@ -1,0 +1,16 @@
+{
+    "name": "sandr/php-oo-dio",
+    "description": "Projeto utilizado no curso de OO com PHP da DIO",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SandroPaiva",
+            "email": "sandroneripaiva@gmail.com"
+        }
+    ],
+    "require": {}
+}
